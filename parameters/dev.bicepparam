@@ -7,6 +7,6 @@ param storageAccountName = 'stwebprodneorigen99' // Recuerda que debe ser único
 param mandatoryTags = {
   Ambiente: 'Pruebas'
   aplicacion: 'IaC'
-  owner: 'Servicis Nube'
-  CostCenter: '102030'
+  owner: 'Servicios Nube'
+  CostCenter: 'N/A'
 }
